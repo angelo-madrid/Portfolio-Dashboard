@@ -1,0 +1,320 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///Users/angelo.madrid/Library/Application%20Support/Claude/local-agent-mode-sessions/0aeb5c0a-c6e0-497d-b6b0-fdb57b0abab1/d4fe91b8-5b9f-495a-9f3b-6c560f3abd25/local_6fd41499-8caf-4d41-a527-473c3bb31ecc/outputs/light/dashboard.html
+Subject: =?utf-8?Q?Beta=20=C2=B7=20Alpha=20=C2=B7=20Asymmetric=20Bets?=
+Date: Fri, 8 May 2026 14:58:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--6jnk7P9ZrZ1ZHOMhMBbdU64dia43rhkipgO5J6w8xL----"
+
+
+------MultipartBoundary--6jnk7P9ZrZ1ZHOMhMBbdU64dia43rhkipgO5J6w8xL----
+Content-Type: text/html
+Content-ID: <frame-3AD4CBBB3D81735F68ADAA226BBDE867@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///Users/angelo.madrid/Library/Application%20Support/Claude/local-agent-mode-sessions/0aeb5c0a-c6e0-497d-b6b0-fdb57b0abab1/d4fe91b8-5b9f-495a-9f3b-6c560f3abd25/local_6fd41499-8caf-4d41-a527-473c3bb31ecc/outputs/light/dashboard.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-8982c506-5623-469a-aed3-568e287f8c72@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1">
+<title>Beta =C2=B7 Alpha =C2=B7 Asymmetric Bets</title>
+<link href=3D"https://fonts.googleapis.com/css2?family=3DDM+Mono:wght@400;5=
+00&amp;family=3DSyne:wght@800&amp;display=3Dswap" rel=3D"stylesheet">
+
+
+
+</head>
+<body>
+<div class=3D"page">
+  <div class=3D"hdr">
+    <div>
+      <h1>Beta =C2=B7 Alpha =C2=B7 Asymmetric Bets</h1>
+      <div class=3D"sub">MULTI-HORIZON PERFORMANCE DASHBOARD</div>
+    </div>
+    <button class=3D"fetch-btn">
+      =E2=86=BB How to refresh
+    </button>
+  </div>
+
+  <div class=3D"src live" id=3D"srcBanner">
+    <span class=3D"src-dot"></span>
+    <span id=3D"srcTxt">Yahoo Finance via yfinance =C2=B7 Fetched May 08, 2=
+026 14:02 =C2=B7 Data baked in</span>
+  </div>
+
+  <div class=3D"ctrls">
+    <span class=3D"cl">Scale</span>
+    <button class=3D"tog on" id=3D"bl">Linear</button>
+    <button class=3D"tog" id=3D"bg">Log</button>
+    <div class=3D"vsep"></div>
+    <span class=3D"cl">Vol bands</span>
+    <button class=3D"tog on" id=3D"bbon">Show</button>
+    <button class=3D"tog" id=3D"bboff">Hide</button>
+  </div>
+
+  <div class=3D"tabs">
+    <button class=3D"tab on">10Y / 10Y</button>
+    <button class=3D"tab">5Y / 5Y</button>
+    <button class=3D"tab">1Y / 1Y</button>
+    <button class=3D"tab">6M / 6M</button>
+    <button class=3D"tab">30D / 30D</button>
+  </div>
+
+  <div class=3D"cards" id=3D"cards"><div class=3D"card" style=3D"border-top=
+-color:#378ADD">
+      <div class=3D"card-lbl">SPY =C2=B7 BETA</div>
+      <div class=3D"card-val pos">+318.2%</div>
+      <div class=3D"card-sub">CAGR 15.4% =C2=B7 Fwd 8%</div>
+      <div class=3D"card-base">Base $174.92 =C2=B7 2016-05-09</div>
+    </div><div class=3D"card" style=3D"border-top-color:#EF9F27">
+      <div class=3D"card-lbl">MAG7 =C2=B7 ALPHA</div>
+      <div class=3D"card-val pos">+8125.1%</div>
+      <div class=3D"card-sub">CAGR 55.5% =C2=B7 Fwd 11%</div>
+      <div class=3D"card-base">Base $139.7 =C2=B7 2016-05-09</div>
+    </div><div class=3D"card" style=3D"border-top-color:#D85A30">
+      <div class=3D"card-lbl">TESLA =C2=B7 BET</div>
+      <div class=3D"card-val pos">+2856.6%</div>
+      <div class=3D"card-sub">CAGR 40.3% =C2=B7 Fwd 15%</div>
+      <div class=3D"card-base">Base $13.93 =C2=B7 2016-05-09</div>
+    </div><div class=3D"card" style=3D"border-top-color:#D4537E">
+      <div class=3D"card-lbl">BITCOIN =C2=B7 BET</div>
+      <div class=3D"card-val pos">+17657.7%</div>
+      <div class=3D"card-sub">CAGR 67.9% =C2=B7 Fwd 20%</div>
+      <div class=3D"card-base">Base $458.55 =C2=B7 2016-05-08</div>
+    </div></div>
+
+  <div class=3D"legend">
+    <span class=3D"li"><span class=3D"ln" style=3D"background:var(--spy)"><=
+/span>SPY =C2=B7 Beta</span>
+    <span class=3D"li"><span class=3D"ln" style=3D"background:var(--mag)"><=
+/span>Mag7 =C2=B7 Alpha</span>
+    <span class=3D"li"><span class=3D"ln" style=3D"background:var(--tsl)"><=
+/span>Tesla</span>
+    <span class=3D"li"><span class=3D"ln" style=3D"background:var(--btc)"><=
+/span>Bitcoin</span>
+    <span class=3D"li"><span class=3D"ld" style=3D"color:#555"></span>Proje=
+ction</span>
+    <span class=3D"li" id=3D"bandLeg"><span style=3D"display:inline-block;w=
+idth:18px;height:7px;background:rgba(150,150,150,.15);border-radius:1px"></=
+span>90% band</span>
+  </div>
+
+  <div class=3D"note" id=3D"note">Projection: CAGR geometric compounding =
+=C2=B7 Dashed =3D forward =C2=B7 90% vol bands on Tesla &amp; Bitcoin</div>
+  <div class=3D"chart-wrap"><canvas id=3D"chart" role=3D"img" aria-label=3D=
+"Multi-horizon performance chart." width=3D"2304" height=3D"880" style=3D"d=
+isplay: block; box-sizing: border-box; height: 440px; width: 1152px;"></can=
+vas></div>
+  <div class=3D"outperf" id=3D"outperf"><span class=3D"op">Mag7: <span styl=
+e=3D"color:var(--grn)">+7806.9pts vs SPY</span></span><span class=3D"op">Te=
+sla: <span style=3D"color:var(--grn)">+2538.3pts vs SPY</span></span><span =
+class=3D"op">Bitcoin: <span style=3D"color:var(--grn)">+17339.5pts vs SPY</=
+span></span></div>
+
+  <hr>
+  <div class=3D"footer">
+    Yahoo Finance via yfinance =C2=B7 MAG7: MSFT 25% / NVDA 25% / GOOGL 20%=
+ / META 15% / AMZN 10% / AAPL 5%<br>
+    Long-term: CAGR geometric compounding =C2=B7 Short-term: Geometric Brow=
+nian Motion =C2=B7 Not financial advice
+  </div>
+</div>
+
+
+
+</body></html>
+------MultipartBoundary--6jnk7P9ZrZ1ZHOMhMBbdU64dia43rhkipgO5J6w8xL----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@800&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "DM Mono"; font-style: normal; font-weight: 400; =
+font-display: swap; src: url("https://fonts.gstatic.com/s/dmmono/v16/aFTU7P=
+B1QTsUX8KYthSQBK6PYK3EXw.woff2") format("woff2"); unicode-range: U+100-2BA,=
+ U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1D=
+BF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2=
+C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "DM Mono"; font-style: normal; font-weight: 400; =
+font-display: swap; src: url("https://fonts.gstatic.com/s/dmmono/v16/aFTU7P=
+B1QTsUX8KYthqQBK6PYK0.woff2") format("woff2"); unicode-range: U+0-FF, U+131=
+, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-20=
+6F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "DM Mono"; font-style: normal; font-weight: 500; =
+font-display: swap; src: url("https://fonts.gstatic.com/s/dmmono/v16/aFTR7P=
+B1QTsUX8KYvumzEY2tbYf-Vlh3uA.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "DM Mono"; font-style: normal; font-weight: 500; =
+font-display: swap; src: url("https://fonts.gstatic.com/s/dmmono/v16/aFTR7P=
+B1QTsUX8KYvumzEYOtbYf-Vlg.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Syne; font-style: normal; font-weight: 800; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxs=
+WxjBZRjr0FKM_24vg6gTY_vDE5YfqXtUw.woff2") format("woff2"); unicode-range: U=
++370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Syne; font-style: normal; font-weight: 800; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxs=
+WxjBZRjr0FKM_24vg6tTY_vDE5YfqXtUw.woff2") format("woff2"); unicode-range: U=
++100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, =
+U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+=
+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Syne; font-style: normal; font-weight: 800; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxs=
+WxjBZRjr0FKM_24vg6jTY_vDE5YfqU.woff2") format("woff2"); unicode-range: U+0-=
+FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, =
+U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD=
+; }
+------MultipartBoundary--6jnk7P9ZrZ1ZHOMhMBbdU64dia43rhkipgO5J6w8xL----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8982c506-5623-469a-aed3-568e287f8c72@mhtml.blink
+
+@charset "utf-8";
+
+*, ::before, ::after { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+:root { --bg: #ffffff; --surf: #ffffff; --bdr: #e5e7eb; --bdr2: #d1d5db; --=
+txt: #111827; --mut: #6b7280; --dim: #f3f4f6; --grn: #4ade80; --red: #f8717=
+1; --ylw: #fbbf24; --spy: #2563eb; --mag: #ea580c; --tsl: #dc2626; --btc: #=
+db2777; }
+
+html, body { background: var(--bg); color: var(--txt); font-family: Syne, s=
+ans-serif; font-size: 14px; min-height: 100vh; }
+
+.page { max-width: 1200px; margin: 0px auto; padding: 28px 24px 48px; }
+
+.hdr { display: flex; justify-content: space-between; align-items: flex-sta=
+rt; margin-bottom: 16px; flex-wrap: wrap; gap: 12px; }
+
+h1 { font-size: 26px; font-weight: 800; letter-spacing: -0.5px; color: rgb(=
+17, 24, 39); }
+
+.sub { font-family: "DM Mono", monospace; font-size: 10px; color: var(--mut=
+); letter-spacing: 1.5px; margin-top: 3px; }
+
+.fetch-btn { display: inline-flex; align-items: center; gap: 8px; font-fami=
+ly: "DM Mono", monospace; font-size: 11px; font-weight: 500; padding: 9px 1=
+8px; border-radius: 6px; border: 1.5px solid var(--mag); background: transp=
+arent; color: var(--mag); cursor: pointer; }
+
+.fetch-btn:hover { background: rgba(239, 159, 39, 0.1); }
+
+.fetch-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+.src { font-family: "DM Mono", monospace; font-size: 10px; padding: 8px 12p=
+x; border-radius: 5px; border: 0.5px solid; margin-bottom: 14px; display: f=
+lex; align-items: center; gap: 8px; }
+
+.src.live { background: rgb(240, 253, 244); border-color: rgb(187, 247, 208=
+); color: rgb(21, 128, 61); }
+
+.src.synth { background: rgb(255, 251, 235); border-color: rgb(253, 230, 13=
+8); color: rgb(180, 83, 9); }
+
+.src-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+
+.src.live .src-dot { background: var(--grn); }
+
+.src.synth .src-dot { background: var(--ylw); }
+
+.ctrls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; mar=
+gin-bottom: 14px; }
+
+.cl { font-family: "DM Mono", monospace; font-size: 10px; color: var(--mut)=
+; }
+
+.tog { font-family: "DM Mono", monospace; font-size: 10px; padding: 4px 11p=
+x; border-radius: 4px; border: .5px solid var(--bdr2); background: transpar=
+ent; color: var(--mut); cursor: pointer; }
+
+.tog.on { background: var(--txt); color: rgb(255, 255, 255); border-color: =
+var(--txt); }
+
+.vsep { width: 1px; height: 18px; background: var(--bdr); margin: 0px 4px; =
+}
+
+.tabs { display: flex; border-bottom: 1px solid var(--bdr); margin-bottom: =
+14px; }
+
+.tab { font-family: "DM Mono", monospace; font-size: 11px; padding: 8px 18p=
+x; border-width: medium medium 2px; border-style: none none solid; border-c=
+olor: currentcolor currentcolor transparent; border-image: initial; backgro=
+und: transparent; color: var(--mut); cursor: pointer; margin-bottom: -1px; =
+}
+
+.tab.on { color: var(--txt); border-bottom-color: var(--txt); }
+
+.cards { display: grid; grid-template-columns: repeat(4, minmax(0px, 1fr));=
+ gap: 10px; margin-bottom: 14px; }
+
+.card { background: var(--surf); border-radius: 6px; border-right-color: ; =
+border-right-style: ; border-right-width: ; border-bottom-color: ; border-b=
+ottom-style: ; border-bottom-width: ; border-left-color: ; border-left-styl=
+e: ; border-left-width: ; border-image-source: ; border-image-slice: ; bord=
+er-image-width: ; border-image-outset: ; border-image-repeat: ; border-top:=
+ 2px solid transparent; padding: 12px 14px; }
+
+.card-lbl { font-family: "DM Mono", monospace; font-size: 9px; color: var(-=
+-mut); letter-spacing: 1.2px; margin-bottom: 5px; }
+
+.card-val { font-family: "DM Mono", monospace; font-size: 22px; font-weight=
+: 500; margin-bottom: 3px; }
+
+.card-sub { font-family: "DM Mono", monospace; font-size: 10px; color: var(=
+--mut); }
+
+.card-base { font-family: "DM Mono", monospace; font-size: 9px; color: var(=
+--mut); opacity: 0.55; margin-top: 3px; }
+
+.pos { color: var(--grn); }
+
+.neg { color: var(--red); }
+
+.legend { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 8px; }
+
+.li { display: flex; align-items: center; gap: 5px; font-family: "DM Mono",=
+ monospace; font-size: 10px; color: var(--mut); }
+
+.ln { width: 18px; height: 2px; flex-shrink: 0; }
+
+.ld { width: 18px; height: 2px; background-image: repeating-linear-gradient=
+(90deg, currentcolor 0px, currentcolor 4px, transparent 4px, transparent 8p=
+x); flex-shrink: 0; }
+
+.note { font-family: "DM Mono", monospace; font-size: 10px; color: var(--mu=
+t); opacity: 0.6; margin-bottom: 8px; line-height: 1.5; }
+
+.chart-wrap { position: relative; width: 100%; height: 440px; }
+
+.outperf { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 8px; min-=
+height: 18px; }
+
+.op { font-family: "DM Mono", monospace; font-size: 10px; color: var(--mut)=
+; }
+
+hr { border-right-width: medium; border-bottom-width: medium; border-left-w=
+idth: medium; border-right-style: none; border-bottom-style: none; border-l=
+eft-style: none; border-right-color: currentcolor; border-bottom-color: cur=
+rentcolor; border-left-color: currentcolor; border-image: initial; border-t=
+op: 1px solid var(--bdr); margin: 22px 0px 10px; }
+
+.footer { font-family: "DM Mono", monospace; font-size: 9px; color: var(--m=
+ut); line-height: 1.9; text-align: center; }
+
+@media (max-width: 700px) {
+  .cards { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .tab { padding: 7px 10px; font-size: 10px; }
+}
+------MultipartBoundary--6jnk7P9ZrZ1ZHOMhMBbdU64dia43rhkipgO5J6w8xL------
